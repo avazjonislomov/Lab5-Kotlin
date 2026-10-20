@@ -1,0 +1,7 @@
+.gradle/
+build/
+out/
+# Gradle cache
+caches/
+.gradle/
+build/
